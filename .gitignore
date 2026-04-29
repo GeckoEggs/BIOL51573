@@ -1,0 +1,10 @@
+private
+.DS_Store
+syllabus_and_schedule/S2026_schedule.gsheet
+private/syllabus_and_schedule/
+README.Rmd
+files/python_scripts/.ipynb_checkpoints/
+files/python_scripts/__pycache__/
+parseGFF/
+files/python_scripts/covid.fasta
+files/python_scripts/covid_genes.gff3
